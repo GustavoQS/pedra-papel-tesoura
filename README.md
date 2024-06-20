@@ -1,5 +1,9 @@
 # Jogo pedra papel tesoura
   Jogo simples de pedra papel tesoura com Interface Gráfica, desenvolvido com Python e suas bibliotecas, Tkinter e Random
+
+![modelo](imagens/modelo.png)
+
+Veja mais imagens [aqui](imagens/readme.md)
 <br>
 <h2> Descrição </h2>
   Desenvolvi este projeto para praticar minhas habilidades em Python e aprender a usar a biblioteca Tkinter, que permite a criação de um Interface Gráfica. Além disso, utilizei a biblioteca Random para selecionar, de forma aleatória, a escolha que seria o oponente do jogador.<br>
